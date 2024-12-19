@@ -1,15 +1,21 @@
-name: my_app
-description: A new Dart project.
+name: prova_pratica01_cd
+description: Uma implementação de um código Dart que usa uma API Http para acessar um serviço na Web e mostra os dados acessados pela API no formato JSON.
+repository: https://github.com/OE17/pdm2-242
 
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: ">=3.5.0 <4.0.0"
 
 dependencies:
   http: ^1.2.2
+  flutter:
+    sdk: flutter
+  sqflite: ^2.0.0+4
 
 dev_dependencies:
+  flutter_test:
+    sdk: flutter
   test: ^1.16.0
