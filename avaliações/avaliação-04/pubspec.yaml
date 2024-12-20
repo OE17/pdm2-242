@@ -1,7 +1,7 @@
-name: mobdev_parte_01
-description: A sample command-line application.
+name: avaliacao_04
+description: Aplicações de banco de dados com SQLite3 em Dart.
 version: 1.0.0
-repository: https://github.com/ricdtaveira/mobdev-parte-01
+repository: https://github.com/OE17/pdm2-242
 
 environment:
   sdk: ">=2.19.4 <3.0.0"
