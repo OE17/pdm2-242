@@ -1,5 +1,5 @@
 name: clientesmtp
-description: A sample command-line application.
+description: Um programa Dart que usa a biblioteca Mailer para enviar email para o Gmail..
 version: 1.0.0
 
 environment:
