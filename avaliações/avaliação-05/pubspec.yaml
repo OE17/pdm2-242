@@ -1,5 +1,6 @@
-name: clientesmtp
-description: Um programa Dart que usa a biblioteca Mailer para enviar email para o Gmail..
+name: avaliacao_04
+description: Um programa Dart que usa a biblioteca Mailer para enviar email para o Gmail.
+repository: https://github.com/OE17/pdm2-242
 version: 1.0.0
 
 environment:
